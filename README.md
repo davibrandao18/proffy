@@ -98,14 +98,19 @@ npm start
 ```
 
 #### Mobile:
-> Inicie a aplicação e obtenha a URL
+> Inicie a aplicação e obtenha sua URL
 ```sh
 cd /mobile
 npm install
 npm start
 ```
+<details>
+    <summary>Print</summary>
+    <img src="https://user-images.githubusercontent.com/50588380/89908957-ee852e80-dbc4-11ea-9a40-a55a1c1384ae.png" />
+</details>
+
 > Neste passo será necessário alterar o ip no arquivo <a href="https://github.com/davibrandao18/proffy/blob/master/mobile/src/services/api.ts">api.ts</a>
 ```js
-baseURL: 'http://127.0.0.1:3333', //example
+baseURL: 'http://196.168.0.18:3333', //example
 ```
-> A porta pode ser mantida pois foi definida previamente.
+> A porta pode ser mantida como 3333 pois foi definida no server.
