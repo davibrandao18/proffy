@@ -8,10 +8,10 @@
 
 Proffy - Developed during the event NLW 2# by @Rocketseat
 
-## :gear: Build with:
+## :gear: Tenologias utilizadas:
 
 <details>
-    <summary>Backend</summary>
+    <summary>Server</summary>
     <ul><li>NodeJs</li></ul>
     <ul><li>TypeScript</li></ul>
     <ul><li>Express</li></ul>
@@ -21,9 +21,26 @@ Proffy - Developed during the event NLW 2# by @Rocketseat
 </details>
 
 <details>
-    <summary>Frontend</summary>
+    <summary>Web</summary>
+    <ul><li>React</li></ul>
+    <ul><li>TypeScript</li></ul>
+    <ul><li>Axios</li></ul>
+    <ul><li>React Icons</li></ul>
+    <ul><li>HTML</li></ul>
+    <ul><li>JSX</li></ul>
+    <ul><li>CSS</li></ul>
+</details>
+
+<details>
+    <summary>Mobile</summary>
     <ul><li>React</li></ul>
     <ul><li>React Native</li></ul>
+    <ul><li>React Icons</li></ul>
+    <ul><li>React Navigate</li></ul>
+    <ul><li>Expo</li></ul>
+    <ul><li>Expo Google Fonts</li></ul>
+    <ul><li>TypeScript</li></ul>
+    <ul><li>Axios</li></ul>
     <ul><li>HTML</li></ul>
     <ul><li>JSX</li></ul>
     <ul><li>CSS</li></ul>
@@ -32,14 +49,9 @@ Proffy - Developed during the event NLW 2# by @Rocketseat
 ## :heavy_check_mark: Requesitos para funcionamento
 
 <ul>
-    <li><a href="https://nodejs.org/en/">Node.Js</a></li>
-</ul>
-
-<ul>
+    <li><a href="https://git-scm.com/downloads">Git</a></li>
+    <li><a href="https://nodejs.org/en/">Node.Js</a></li>>
     <li><a href="https://www.npmjs.com/get-npm">Npm</a>
-</ul>
-
-<ul>
     <li><a href="https://docs.expo.io/get-started/installation/" target="_blank">Expo</a></li>
 </ul>
 
