@@ -55,10 +55,10 @@ npm install
 npm start
 ```
 
+
 #### Banco de dados:
 
-Rode o comando dentro do diretório server.
-
+> Rode o comando dentro do diretório server.
 ```sh
 npm run knex:migrate
 ```
