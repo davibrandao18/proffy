@@ -52,9 +52,7 @@ Proffy - Desenvolvido durante o evento NLW 2# by @Rocketseat
     <ul><li>CSS</li></ul>
 </details>
 
-## :arrow_forward: Executando
-
-#### :heavy_check_mark: Requesitos
+### :heavy_check_mark: Requesitos
 
 <ul>
     <li><a href="https://git-scm.com/downloads">Git</a></li>
@@ -62,6 +60,8 @@ Proffy - Desenvolvido durante o evento NLW 2# by @Rocketseat
     <li><a href="https://www.npmjs.com/get-npm">Npm</a>
     <li><a href="https://docs.expo.io/get-started/installation/" target="_blank">Expo</a></li>
 </ul>
+
+## :arrow_forward: Executando
 
 #### Backend:
 > Vamos clonar o repositório e instalar as dependencias.
