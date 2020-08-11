@@ -7,9 +7,9 @@
 </p> 
 
 <p align="center">
-  <a href="#gear-tecnologias-utilizadas">Construção</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#heavy_check_mark-requesitos">Requesitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#arrow_forward-executando">Executando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-tecnologias-utilizadas">:gear: Construção</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#heavy_check_mark-requesitos">:heavy_check_mark: Requesitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#arrow_forward-executando">:arrow_forward: Executando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 Proffy - Desenvolvido durante o evento NLW 2# by @Rocketseat
@@ -52,7 +52,9 @@ Proffy - Desenvolvido durante o evento NLW 2# by @Rocketseat
     <ul><li>CSS</li></ul>
 </details>
 
-## :heavy_check_mark: Requesitos
+## :arrow_forward: Executando
+
+#### :heavy_check_mark: Requesitos
 
 <ul>
     <li><a href="https://git-scm.com/downloads">Git</a></li>
@@ -60,8 +62,6 @@ Proffy - Desenvolvido durante o evento NLW 2# by @Rocketseat
     <li><a href="https://www.npmjs.com/get-npm">Npm</a>
     <li><a href="https://docs.expo.io/get-started/installation/" target="_blank">Expo</a></li>
 </ul>
-
-## :arrow_forward: Executando
 
 #### Backend:
 > Vamos clonar o repositório e instalar as dependencias.
