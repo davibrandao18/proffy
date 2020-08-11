@@ -7,12 +7,12 @@
 </p> 
 
 <p align="center">
-  <a href="#gear-tecnologias-utilizadas">Build</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#heavy_check_mark-requesitos">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#arrow_forward-executando">Run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-tecnologias-utilizadas">Contrução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#heavy_check_mark-requesitos">Requesitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#arrow_forward-executando">Executando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-Proffy - Developed during the event NLW 2# by @Rocketseat
+Proffy - Desenvolvido durante o evento NLW 2# by @Rocketseat
 
 ## :gear: Tecnologias utilizadas:
 
