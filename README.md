@@ -14,6 +14,8 @@
 
 Proffy - Desenvolvido durante o evento NLW 2# by @Rocketseat
 
+![Design sem nome (1)](https://user-images.githubusercontent.com/50588380/90249807-7cedf000-de11-11ea-8a5f-24e235b42057.jpg)
+
 ## :gear: Tecnologias utilizadas:
 
 <details>
