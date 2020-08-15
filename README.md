@@ -49,8 +49,6 @@ Proffy - Desenvolvido durante o evento NLW 2# by @Rocketseat
     <ul><li>Expo Google Fonts</li></ul>
     <ul><li>TypeScript</li></ul>
     <ul><li>Axios</li></ul>
-    <ul><li>HTML</li></ul>
-    <ul><li>JSX</li></ul>
     <ul><li>CSS</li></ul>
 </details>
 
